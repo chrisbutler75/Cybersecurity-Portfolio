@@ -33,10 +33,15 @@ Each lab below includes a detailed PDF investigation report documenting my metho
 * **Outcome:** Built a comprehensive attack timeline including multi-stage delivery and ChromeKatz credential theft attempts.
 * 📄 **[View Full Investigation Report](./Invite_Only_Challenge-THM.pdf)**
 
----
+### 4. Phishing & Memory Forensics (Boogeyman 2)
+**Scenario:** Analyzed a volatile memory dump to reconstruct a multi-stage spear-phishing attack.
+* **Tools Used:** Volatility 3, LibreOffice Basic, Linux CLI.
+* **Key Actions:** De-obfuscated VBA macros to reveal Stage 2 payloads; performed process correlation to identify malicious C2 callbacks.
+* **Outcome:** Identified the complete attack chain from the initial email sender to the persistent PowerShell-based C2 agent.
+* 📄 **[View Full Investigation Report](./Boogeyman_2.pdf)**
 
 ## 🛠️ Technical Skills & Tools
-* **SIEM & Monitoring:** Splunk (SPL), Elastic Stack (Kibana), Sysmon, Windows Event Logs.
+ **SIEM & Monitoring:** Splunk (SPL), Elastic Stack (Kibana), Sysmon, Windows Event Logs.
 * **Networking:** OSI Model, TCP/IP Suite, DNS, HTTP/S, Packet Analysis (Wireshark).
 * **Defensive Tools:** VirusTotal, CyberChef, Zeek, Brim, Timeline Explorer.
 * **Frameworks:** MITRE ATT&CK (Adversary Mapping), NIST Cybersecurity Framework (CSF), Pyramid of Pain.
@@ -49,4 +54,4 @@ Each lab below includes a detailed PDF investigation report documenting my metho
 * **Goals:** Achieve CompTIA Security+ certification and transition into a Tier 1 SOC Analyst role.
 
 ---
-**Contact:** [chrisbutler7552@gmail.com](mailto:chrisbutler7552@gmail.com) | [LinkedIn Profile Link Here]
+**Contact:** [chrisbutler7552@gmail.com](mailto:chrisbutler7552@gmail.com) | [www.linkedin.com/in/chris-butler-7b75a9322]
